@@ -1,3 +1,7 @@
+![snake gif](https://github.com/firdous-wani/firdous-wani/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
 
 <!--
 **firdous-wani/firdous-wani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
