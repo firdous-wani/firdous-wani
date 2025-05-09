@@ -1,18 +1,22 @@
-[![](https://visitcount.itsvg.in/api?id=firdous-wani&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=firdous-wani&fontSize=80&fontAlignY=35&animation=twinkling&desc=code.%20ship.%20repeat.&descAlignY=55&descAlign=50"/>
+</div>
 
-![snake gif](https://github.com/firdous-wani/firdous-wani/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
-<!--
-**firdous-wani/firdous-wani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```bash
+> whoami
+firdous-wani
+
+> uptime
+Active. Shipping. Evolving.
+
+```
+
+<div align="center">
+  <img src="https://github.com/firdous-wani/firdous-wani/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
