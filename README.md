@@ -23,8 +23,8 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 - **React Ecosystem:** Next.js, TypeScript, React Native
-- **State Management:** Redux, Zustand, React Query, Jotai
-- **Styling:** TailwindCSS, responsive design, component libraries
+- **State Management:** Redux, React Query
+- **Styling:** TailwindCSS, MUI, responsive design, component libraries
 - **Testing:** Jest, React Testing Library
 
 ### ☁️ Backend & Infrastructure
