@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Firdous
-**Frontend Engineer** with deep expertise in AI-powered applications and intelligent user interfaces.
+**Software Engineer** with deep expertise in AI-powered applications and intelligent user interfaces.
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firdous-wani&layout=compact&theme=dark)
